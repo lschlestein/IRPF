@@ -1,4 +1,4 @@
-public class FaixaImposto extends FaixasIR2024 {
+public class FaixaImpostoRenda extends FaixasIR2024 {
 
     /* Faixas do IR Parcela salarial em cada faixa Alíquota
     Faixa 1:    Até R$ 2.112                        isento
